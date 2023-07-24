@@ -1,2 +1,2 @@
-# Universe_website
-Website made with HTML and CSS
+## Universe Website
+Website made with HTML5 and CSS
